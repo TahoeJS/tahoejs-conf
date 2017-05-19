@@ -2,6 +2,8 @@ http://jsconf.com/?
 
 # Speakers
 
+# Sponsors
+
 # Locations
 
 - Squaw Creek
