@@ -1,26 +1,28 @@
+# Ideas
+
 http://jsconf.com/?
 
-# Speakers
+## Speaker
 
 - Stephen Grieder: Udemy Instructor (React, React native, Redux)
 - Felix Rosenberg Slack (Electron)
 
-# Sponsors
+## Sponsors
 
-# Locations
+## Locations
 
 - Squaw Creek
 
-# After hours events
+## After hours events
 
 - Beach Events
 - Tahoe Queen/MS Dixie Private Party
 - Local bands / DJs
 
-# Topics
+## Topics
 
-# Food
+## Food
 
 - Food Trucks from Truckee Thirsdays
 
-# When
+## When
