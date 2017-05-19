@@ -2,6 +2,9 @@ http://jsconf.com/?
 
 # Speakers
 
+- Stephen Grieder: Udemy Instructor (React, React native, Redux)
+- Felix Rosenberg Slack (Electron)
+
 # Sponsors
 
 # Locations
@@ -27,3 +30,20 @@ http://jsconf.com/?
 - David Carrico: IGT Sponsorship?
 - Justin Dorfman: Sticker Mule Swag
 - Myles Borins: Node Speakers
+- Ben Damman: Greg Barto
+- David Fetterman
+- Daniel Wert: Docker
+- Alex Fugel: Facebook
+- Bart Janen: Microsoft
+- Marc Wilhite: Sony
+- Zack Brown: CEO Haiku
+- Mike O'Bried Facebook
+- Daron Rahlves
+- Chris Montrois Slack
+- James Baker Linked in
+- Robert Urwiler: CTO Vail Sponsorship
+- Liz Lewis: Executive Assistaant Vail
+- Kristin Baird: Mozilla
+- Eric Brown
+- Farhad Ghayour: McKinsey
+- Greg Barto: ex Tech Crunch Writer, planned JQSF
