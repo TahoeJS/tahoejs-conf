@@ -9,6 +9,11 @@ http://jsconf.com/?
 
 ## Sponsors
 
+- Vail
+- Clear Capital
+- New Leaders
+- IGT
+
 ## Locations
 
 - Squaw Creek
@@ -20,6 +25,9 @@ http://jsconf.com/?
 - Local bands / DJs
 
 ## Topics
+
+- Framework show down?
+  - Vue v. React v. Angular
 
 ## Food
 
