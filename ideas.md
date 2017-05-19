@@ -26,8 +26,14 @@ http://jsconf.com/?
 
 ## Topics
 
-- Framework show down?
+- Tech Showdowns?
   - Vue v. React v. Angular
+  - Express v Hapi v
+  - Meteor v MERN v MEAN
+  - Firebase v GraphQL v REST API
+  - Redux v ... yeah nothing can compare. Instant winner
+  - Vanilla JS v TypeSctipt v CoffeeScript v Flow
+  - Webpack v Grunt v Gulp v Browserfiy v Yarn
 
 ## Food
 
