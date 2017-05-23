@@ -12,15 +12,19 @@ These are the subsections of teams that will need to be formed.  Each piece of t
 
 **Time commitment:** Organizers time can vary by the responsibility, but 50% of the time commitment of the curator is a good estimate.
 
-### Website
-
 ### CFP/speakers
+
+### Design/Marketing
+
+### Social Media
+
+### Sponsors
+
+### Tickets
 
 ### Venue/logistics
 
-### Tickets/promotion
-
-### Sponsors
+### Website
 
 ## Volunteers
 
