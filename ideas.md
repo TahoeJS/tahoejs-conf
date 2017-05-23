@@ -12,6 +12,8 @@ BarCamp style event? e.g. http://minnestar.org/minnebar/
 - Someone from [&yet](https://andyet.com/software/)
 - Josh Adams, et al from [Daily Drip](https://www.dailydrip.com/)
 - [Sara Drasner](https://twitter.com/sarah_edo)
+  - Award-winning speaker. Consultant. Writer @Real_CSS_Tricks. Cofounder, https://webanimationworkshops.com/ , formerly @trulia (Zillow). http://codepen.io/sdras/
+  - Eliot Landrum knows her
 - Someone from GitHub
 - People from (USDS)[https://www.usds.gov] / (18F)[https://www.18f.gov] / SSA / DHS
 - People from Breadware, Filament, and Cycle.io
