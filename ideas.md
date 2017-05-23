@@ -11,6 +11,7 @@ BarCamp style event? e.g. http://minnestar.org/minnebar/
 - Marc Grabanski, et al from [Frontend Masters](https://frontendmasters.com/)
 - Someone from [&yet](https://andyet.com/software/)
 - Josh Adams, et al from [Daily Drip](https://www.dailydrip.com/)
+- [Sara Drasner](https://twitter.com/sarah_edo)
 - Someone from GitHub
 - People from (USDS)[https://www.usds.gov] / (18F)[https://www.18f.gov] / SSA / DHS
 - People from Breadware, Filament, and Cycle.io
