@@ -5,10 +5,16 @@
 
 
 
-## Volunteers
-- Jon Nutting
-- Colin Lorertz
+## Organizers
 
-## Contributors
+### Website
 
-## Community
+### CFP/speakers
+
+### Venue/logistics
+
+### Tickets/promotion
+
+### Sponsors
+
+# Volunteers
