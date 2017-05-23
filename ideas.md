@@ -4,7 +4,7 @@ http://jsconf.com/?
 
 BarCamp style event? e.g. http://minnestar.org/minnebar/
 
-## Speaker
+## Speakers
 
 - Stephen Grieder: Udemy Instructor (React, React native, Redux)
 - Felix Rosenberg Slack (Electron)
@@ -15,6 +15,8 @@ BarCamp style event? e.g. http://minnestar.org/minnebar/
 - People from (USDS)[https://www.usds.gov] / (18F)[https://www.18f.gov] / SSA / DHS
 - People from Breadware, Filament, and Cycle.io
 - Michael Jackson, et al, from (React Training)[https://reacttraining.com/]
+- People from the Grass Valley / Nevada City tech community
+- People from the Reno Colletive
 
 ## Sponsors
 
@@ -22,6 +24,9 @@ BarCamp style event? e.g. http://minnestar.org/minnebar/
 - Clear Capital
 - New Leaders
 - IGT
+- TRYP
+- Tahoe Mountain Lab
+- Tahoe Technology Solutions
 
 ## Locations
 
