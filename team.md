@@ -1,7 +1,11 @@
 # Team
 
-## Core
+## Curator
 - Jordan Papaleo
+
+
+
+## Volunteers
 - Jon Nutting
 - Colin Lorertz
 
