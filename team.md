@@ -26,6 +26,8 @@ These are the subsections of teams that will need to be formed.  Each piece of t
 
 ### Website
 
+### After hours activities 
+
 ## Volunteers
 
 This is the lifeblood of the actual event.  If you just want to help with the event, here is your role.
