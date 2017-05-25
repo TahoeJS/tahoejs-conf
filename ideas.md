@@ -4,6 +4,9 @@ http://jsconf.com/?
 
 BarCamp style event? e.g. http://minnestar.org/minnebar/
 
+organize volunteers with [signup.com](https://signup.com/)
+- allows you to create volunteer roles with details and people can sign up for times
+
 ## Speakers
 
 - Stephen Grieder: Udemy Instructor (React, React native, Redux)
