@@ -16,6 +16,8 @@ These are the subsections of teams that will need to be formed.  Each piece of t
 
 ### Design/Marketing
 
+Robert Nealan
+
 ### Social Media
 
 ### Sponsors
@@ -25,6 +27,8 @@ These are the subsections of teams that will need to be formed.  Each piece of t
 ### Venue/logistics
 
 ### Website
+
+Robert Nealan (Frontend) — Plenty of room for someone to help tag-team frontend or focus on any needed backend stuff.
 
 ### After hours activities 
 
