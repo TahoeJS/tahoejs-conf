@@ -4,7 +4,7 @@ All attendees, speakers, sponsors and volunteers at our conference are required 
 
 ## Need Help?
 
-Email us at jordan@@tahoejs.com
+Email us at jordan@tahoejs.com
 
 ## The Quick Version
 
