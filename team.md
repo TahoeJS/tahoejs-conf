@@ -14,6 +14,8 @@ These are the subsections of teams that will need to be formed.  Each piece of t
 
 ### CFP/speakers
 
+Garrett McCullough
+
 ### Design/Marketing
 
 Robert Nealan
