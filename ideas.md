@@ -33,6 +33,7 @@ organize volunteers with [signup.com](https://signup.com/)
 - TRYP
 - Tahoe Mountain Lab
 - Tahoe Technology Solutions
+- Trail Runner International
 
 ## Locations
 
@@ -52,6 +53,7 @@ organize volunteers with [signup.com](https://signup.com/)
   - Meteor v MERN v MEAN
   - Firebase v GraphQL v REST API
   - Redux v ... yeah nothing can compare. Instant winner
+    - MobX
   - Vanilla JS v TypeSctipt v CoffeeScript v Flow
   - Webpack v Grunt v Gulp v Browserfiy v Yarn
  - Trainings or Workshops
